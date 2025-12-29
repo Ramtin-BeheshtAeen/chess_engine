@@ -5,6 +5,9 @@ Concepts:
 - MinMax
 - https://en.wikipedia.org/wiki/Bellman_equation
 - png data set: https://archive.org/details/KingBase2018
+- 
+
+
 
 Definition: Value Network
 v = f (state)  function will get board and return the value
